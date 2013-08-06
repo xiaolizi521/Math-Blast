@@ -40,7 +40,7 @@ Math Blast allows children and adults to practice various skills and become more
   * Game Center / Achievements
   * Hints & Tips / Instructions
   * Track player progress
-  * More powerups
+  * More powerups (currently 2)
   * ~~Menu Button~~
   * Retina Display Support
   * Difficulty levels
